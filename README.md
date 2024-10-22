@@ -9,7 +9,7 @@
 Interested in the development of artificial intelligence and its branches, with the purpose of using them in the military industry. Passionate about the corporate sector and also being a physicist at heart.
 
 *   🌍  I'm based in Everiwhere
-*   🖥️  See my portfolio at [Cooming soon!](https://invictussforza.com)
+*   🖥️  See my portfolio at [Coming soon!](https://invictussforza.com)
 *   ✉️  You can contact me at [archangelus.morningstar@gmail.com](mailto:archangelus.morningstar@gmail.com)
 *   ☣  I'm currently working on [E.X.C.I.D.I.U.M.](http://luciferstar.com)
 *   🧠  I'm learning Computer Vision
